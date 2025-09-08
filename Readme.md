@@ -38,6 +38,7 @@ Delivered actionable insights that supported strategic marketing, inventory mana
 
 📷 Dashboard Snapshot
 
+
 This screenshot illustrates the interactive dashboard with key charts, filters, and performance metrics used to analyze e-commerce sales.
 
 📌 Conclusion
